@@ -9,7 +9,6 @@ dependencies = [
     "dotenv",
     "google-maps-places",
     "google-maps-routing",
-    "easygui"
 ]
 
 [dependency-groups]

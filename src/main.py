@@ -15,11 +15,11 @@ def main():
 
     dotenv.load_dotenv(".env.local")
 
-    file = parse_csv.select_file()
+    # file = parse_csv.select_file()
 
-    print(f"Selected file: {file}")
+    # print(f"Selected file: {file}")
 
-    exit()
+    # exit()
 
     client = GoogleClient()
 
