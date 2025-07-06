@@ -1,0 +1,17 @@
+{
+  "routes": [
+    {
+      "localized_values": {
+        "distance": {
+          "text": "138 mi"
+        },
+        "duration": {
+          "text": "1 hour 59 mins"
+        },
+        "static_duration": {
+          "text": "2 hours 3 mins"
+        }
+      }
+    }
+  ]
+}

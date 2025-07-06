@@ -1,0 +1,19 @@
+[project]
+name = "routedistancecalculator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests",
+    "dotenv",
+    "google-maps-places",
+    "google-maps-routing",
+    "easygui"
+]
+
+[dependency-groups]
+dev = [
+    "ruff",
+    "pydoclint"
+]
